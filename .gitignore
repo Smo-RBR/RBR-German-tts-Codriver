@@ -95,6 +95,10 @@ Plugins/Pacenote/doc/
 Plugins/Pacenote/.DS_Store
 Plugins/Pacenote/._.DS_Store
 *.un~
+Plugins/Pacenote/language/swedish
+Plugins/Pacenote/language/french
+Plugins/Pacenote/language/english
+Plugins/Pacenote/language/czech
 Plugins/NGPCarMenu.ini
 Plugins/Pacenote/cameras.ini
 Plugins/Pacenote/Cameras.sample.ini
