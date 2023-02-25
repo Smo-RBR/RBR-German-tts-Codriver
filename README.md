@@ -1,6 +1,7 @@
 # RBR-German-tts-Codriver
-Einfach erweiterbarer deutscher Beifahrer fürs Pacenote Plugin von Richard Burns Rally
-Enstanden aus der Vorarbeit von Workerbee und den Notes Erweiterungen von Janne Laahanen
+Einfach erweiterbarer deutscher Beifahrer fürs Pacenote Plugin von Richard Burns Rally.
+
+Enstanden aus der Vorarbeit von Workerbee und den Notes Erweiterungen von Janne Laahanen.
 
 # Work in Progress
 - Frontend aufräumen, wer das oft zum editieren der Notes benutzt: lieber abwarten, das sieht noch aus wie Kraut und Rüben, oder man nimmt halt Roadbook
