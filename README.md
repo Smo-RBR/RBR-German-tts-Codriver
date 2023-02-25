@@ -1,5 +1,5 @@
 # RBR-German-tts-Codriver
-Einfach erweiterbarer deutscher Beifahrer fürs Pacenote Plugin von Richard Burns Rally.
+Deutscher Janne v2 kompatibler Beifahrer fürs Pacenote Plugin von Richard Burns Rally
 
 Enstanden aus der Vorarbeit von Workerbee und den Notes Erweiterungen von Janne Laahanen.
 
