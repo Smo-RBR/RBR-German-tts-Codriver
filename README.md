@@ -7,7 +7,7 @@ Einfach erweiterbarer deutscher Beifahrer fürs Pacenote Plugin von Richard Burn
 
 Zuerst oben links unter dem grün unterlegtem "Code" die Dateien als .zip herunterladen
 
-**Backup machen: Im deinem RBR-Ordner den Ordner "Audio" und im Ordner Plugins den Ordner "Pacenote" folgendermassen kopieren: Rechte Maustaste auf den Verzeichnisnamen, dann kopieren, dann einfügen. Jetzt sollten sich im RBR Ordner ein neuer Eintrag "Audio-Kopie" und im Plugins Ordner eim Eintrag "Pacenote-Kopie" befinden.
+**Backup machen: Im deinem RBR-Ordner den Ordner "Audio" und im Ordner Plugins den Ordner "Pacenote" folgendermassen kopieren: Rechte Maustaste auf den Verzeichnisnamen, dann kopieren, dann einfügen. Jetzt sollten sich im RBR Ordner ein neuer Eintrag "Audio-Kopie" und im Plugins Ordner eim Eintrag "Pacenote-Kopie" befinden.**
 
 Danach das heruntergeladene zip in Dein RBR Verzeichnis entpacken. Bei der Nachfrgae ob Dateien überschrieben werden sollen mit "Ja" antworten.
 
