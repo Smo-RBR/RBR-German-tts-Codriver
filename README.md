@@ -16,8 +16,18 @@ Zuerst oben links unter dem grün unterlegtem "Code" die Dateien als .zip herunt
 
 Danach das heruntergeladene zip in Dein RBR Verzeichnis entpacken. Bei der Nachfrgae ob Dateien überschrieben werden sollen mit "Ja" antworten.
 
-Jetzt kannst du in RBR eine Stage starten, zwei mal links klicken und im erscheinenden Fenster im oberen Dropdown deine gewünschtes Ansageschema auswählen. Im unteren Dropdown musst du Extended wählen. Neben den originalen Schema stehen dir jetzt: Smo-Nummer-Zuerst, Smo-Richtung-Zuerst und Smo-Mix zur Verfügung. Smo-Mix ist eine Mischung aus Nummern und Beschreibungen für die Kurven, die anderen beiden verwenden die bekannte 6 bis 1 Skala.
-
+Jetzt kannst du in RBR eine Stage starten, zwei mal links klicken und im erscheinenden Fenster im oberen Dropdown deine gewünschtes Ansageschema auswählen. Neben den originalen Schema stehen dir jetzt folgende Ansageschemata zur Verfügung:
+```
+Smo-Nummern_90:  	Smo-Nummern:            Smo-Mix:	
+Kehre			Kehre			Kehre
+2			1			2
+90			2			90
+3			3			3
+4			4			4
+5			5			5
+6			6			Leicht
+Voll			Voll			Voll
+```
 Wenn du dein bevorzugtes Ansageschema gefunden hast, kannst du die Datei Richard_Burns_Rally Verzeichnis\Plugins\Pacenote\config\pacenotes\rbr.ini so ändern, dass diese auf dein bevorzugtes Schma verweist. Voreingestellt ist gerade Smo-Mix, und es sollte eigenlich selbsterklärend sein. Du musst nur die Zeile "file0" ändern. Sonst nichts. 
 
 # De-Installation
