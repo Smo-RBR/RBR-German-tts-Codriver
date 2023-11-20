@@ -14,7 +14,7 @@ Zuerst oben links unter dem grün unterlegtem "Code" die Dateien als .zip herunt
 
 **Backup machen: Im deinem RBR-Ordner den Ordner "Audio" und im Ordner Plugins den Ordner "Pacenote" folgendermassen kopieren: Rechte Maustaste auf den Verzeichnisnamen, dann kopieren, dann einfügen. Jetzt sollten sich im RBR Ordner ein neuer Eintrag "Audio-Kopie" und im Plugins Ordner eim Eintrag "Pacenote-Kopie" befinden.**
 
-Danach das heruntergeladene zip in Dein RBR Verzeichnis entpacken. Bei der Nachfrgae ob Dateien überschrieben werden sollen mit "Ja" antworten.
+Danach das heruntergeladene zip in Dein RBR Verzeichnis entpacken. Bei der Nachfrage ob Dateien überschrieben werden sollen mit "Ja" antworten.
 
 Jetzt kannst du in RBR eine Stage starten, zwei mal links klicken und im erscheinenden Fenster im oberen Dropdown deine gewünschtes Ansageschema auswählen. Neben den originalen Schema stehen dir jetzt folgende Ansageschemata zur Verfügung:
 ```
