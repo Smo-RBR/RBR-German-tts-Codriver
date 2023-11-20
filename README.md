@@ -21,7 +21,7 @@ Jetzt kannst du in RBR eine Stage starten, zwei mal links klicken und im erschei
 Smo-Nummern_90:  	Smo-Nummern:            Smo-Mix:	
 Kehre			Kehre			Kehre
 2			1			2
-90			2			90
+90			2			Scharf
 3			3			3
 4			4			4
 5			5			5
