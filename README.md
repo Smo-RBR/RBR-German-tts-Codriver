@@ -18,7 +18,7 @@ Danach das heruntergeladene zip in Dein RBR Verzeichnis entpacken. Bei der Nachf
 
 Jetzt kannst du in RBR eine Stage starten, zwei mal links klicken und im erscheinenden Fenster im oberen Dropdown deine gewünschtes Ansageschema auswählen. Neben den originalen Schema stehen dir jetzt folgende Ansageschemata zur Verfügung:
 ```
-Smo-Nummern_90:  	Smo-Nummern:            Smo-Mix:	
+Smo-Nummern_und_90:  	Smo-Nummern:            Smo-Mix:	
 Kehre			Kehre			Kehre
 2			1			2
 90			2			Scharf
