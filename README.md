@@ -19,14 +19,14 @@ Danach das heruntergeladene zip in Dein RBR Verzeichnis entpacken. Bei der Nachf
 Jetzt kannst du in RBR eine Stage starten, zwei mal links klicken und im erscheinenden Fenster im oberen Dropdown deine gewünschtes Ansageschema auswählen. Neben den originalen Schema stehen dir jetzt folgende Ansageschemata zur Verfügung:
 ```
 Smo-Nummern_und_90:  	Smo-Nummern:            Smo-Mix:	Smo-Richtung:	
-Kehre l/r		Kehre l/r		Kehre l/r	l/r Kehre
-2 l/r			1 l/r			90 l/r		l/r 1 
-90 l/r			2 l/r			Scharf l/r	l/r 2
-3 l/r			3 l/r			3 l/r		l/r 3
-4 l/r			4 l/r			4 l/r		l/r 4
-5 l/r			5 l/r			5 l/r		l/r 5
-6 l/r			6 l/r			Leicht l/r	l/r 6
-Voll l/r		Voll l/r		Voll l/r	l/r Voll
+Kehre l/r		Kehre l/r		Kehre l/r	Kehre l/r
+2 l/r			1 l/r			90 l/r		1 l/r
+90 l/r			2 l/r			Scharf l/r	2 l/r
+3 l/r			3 l/r			3 l/r		3 l/r
+4 l/r			4 l/r			4 l/r		4 l/r
+5 l/r			5 l/r			5 l/r		5 l/r
+6 l/r			6 l/r			Leicht l/r	6 l/r
+Voll l/r		Voll l/r		Voll l/r	Voll l/r
 ```
 Wenn du dein bevorzugtes Ansageschema gefunden hast, kannst du die Datei Richard_Burns_Rally Verzeichnis\Plugins\Pacenote\config\pacenotes\rbr.ini so ändern, dass diese auf dein bevorzugtes Schma verweist. Voreingestellt ist gerade Smo-Mix, und es sollte eigenlich selbsterklärend sein. Du musst nur die Zeile "file0" ändern. Sonst nichts. 
 
