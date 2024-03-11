@@ -16,6 +16,12 @@ Zuerst oben links unter dem grün unterlegtem "Code" die Dateien als .zip herunt
 
 Danach das heruntergeladene zip in Dein RBR Verzeichnis entpacken. Bei der Nachfrage ob Dateien überschrieben werden sollen mit "Ja" antworten.
 
+# Benutzung
+
+Es stehen zwei Stimmen zur Verfügung: Hans Juchard, eine langsame, klare, deutliche Stimme, und Lars Brandner, eine schnelle Stimme mit einem Interkom klang, also verzerrt und verrauscht, was etws realitätsnäher rüberkommen soll.
+
+Um die Stimme auszuwählen, editirer die Datei Plugins/Pacenote/Pacenote.ini, es sollte eigentlich selbsterklärend sein, man muss nur den Namen Lars_Brandner oder Hans_Juchard im Pfad zu den Sounds austauschen. Bitte den Unterstrich zwischen Namen und Vornamen nicht vergessen.
+
 Jetzt kannst du in RBR eine Stage starten, zwei mal links klicken und im erscheinenden Fenster im oberen Dropdown deine gewünschtes Ansageschema auswählen. Neben den originalen Schema stehen dir jetzt folgende Ansageschemata zur Verfügung:
 ```
 Smo-Nummern_und_90:  	Smo-Nummern:            Smo-Mix:	Smo-Richtung:	
