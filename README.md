@@ -18,9 +18,9 @@ Danach das heruntergeladene zip in Dein RBR Verzeichnis entpacken. Bei der Nachf
 
 # Benutzung
 
-Es stehen zwei Stimmen zur Verfügung: Hans Juchard, eine langsame, klare, deutliche Stimme, und Lars Brandner, eine schnelle Stimme mit einem Interkom klang, also verzerrt und verrauscht, was etws realitätsnäher rüberkommen soll.
+Es stehen drei Stimmen zur Verfügung: Hans Juchard, eine langsame, klare, deutliche Stimme, dann die selber Stimme, aber schneller gesprochen, und Lars Brandner, eine schnelle Stimme mit einem Interkom klang, also verzerrt und verrauscht, was etws realitätsnäher rüberkommen soll.
 
-Um die Stimme auszuwählen, editirer die Datei Plugins/Pacenote/Pacenote.ini, es sollte eigentlich selbsterklärend sein, man muss nur den Namen Lars_Brandner oder Hans_Juchard im Pfad zu den Sounds austauschen. Bitte den Unterstrich zwischen Namen und Vornamen nicht vergessen.
+Um die Stimme auszuwählen, editirer die Datei Plugins/Pacenote/Pacenote.ini, es sollte eigentlich selbsterklärend sein, man muss nur den Namen Lars_Brandner, Hans_Juchard oder Schneller_Hans im Pfad zu den Sounds austauschen. Bitte den Unterstrich zwischen Namen und Vornamen nicht vergessen.
 
 Jetzt kannst du in RBR eine Stage starten, zwei mal links klicken und im erscheinenden Fenster im oberen Dropdown deine gewünschtes Ansageschema auswählen. Neben den originalen Schema stehen dir jetzt folgende Ansageschemata zur Verfügung:
 ```
